@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "compute.appService1": {
+      "group": "connections",
+      "type": "compute.appService"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "key1"
+    }
+  }
+}
